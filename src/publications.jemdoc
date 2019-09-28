@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+Check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Google Scholar] page for citation info.
+
+== Power-Aware Thermal Management and Cooling
+
+- *M. J. Dousti*, A. Petraglia, and M. Pedram, "[https://novapublishers.com/shop/advances-in-energy-research-volume-26/ Maximum Power Point Tracking for Thermoelectric Generators Using their Accurate Electrothermal Model]," in /Advances in Energy Research/, M. J. Acosta, Ed., vol. 26, Nova Science Publishers, 2017.
+- *M. J. Dousti*, M. Ghasemi-Gol, M. Nazemi, and M. Pedram, "[./papers/thermal/thermtap-islped15.pdf ThermTap: An Online Power Analyzer and Thermal Simulator for Android Devices]," in /Proc. of International Symposium on Low Power Electronics and Design/ (ISLPED), Jul. 2015.
+- *M. J. Dousti* and M. Pedram, "[./papers/thermal/tec-switchcontrol-date15.pdf Power-Efficient Control of Thermoelectric Coolers Considering Distributed Hot Spots]," in /Proc. of Design Automation and Test in Europe/ (DATE), Mar. 2015.
+- *M. J. Dousti*, A. Petraglia, and M. Pedram, "[./papers/thermal/teg-date15.pdf Accurate Electrothermal Modeling of Thermoelectric Generators]," in /Proc. of Design Automation and Test in Europe/ (DATE), Mar. 2015.
+- Q. Xie, *M. J. Dousti*, and M. Pedram, "[./papers/thermal/therminator-islped14.pdf Therminator: A Thermal Simulator for Smartphones Producing Accurate Chip and Skin Temperature Maps]," in /Proc. of the Int’l Symposium on Low Power Electronics and Design/ (ISLPED), Aug. 2014.
+- *M. J. Dousti* and M. Pedram, "[./papers/thermal/tec_fan-dac14.pdf Power-Aware Deployment and Control of Forced-Convection and Thermoelectric Coolers]," in /Proc. of Design Automation Conference/ (DAC), Jun. 2014.
+- *M. J. Dousti* and M. Pedram, "[./papers/thermal/tec_modeling-islped13.pdf Platform-Dependent, Leakage-Aware Control of the Driving Current of Embedded Thermoelectric Coolers]," in /Proc. of the Int’l Symposium on Low Power Electronics and Design/ (ISLPED), Sep. 2013. (*Updated version*)
+
+== Physical Design for Quantum Computers
+
+- *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/squash2-qic16.pdf Squash 2: A Hierarchical Scalable Quantum Mapper Considering Ancilla Sharing]," /Quantum Information & Computation/ (QIC), vol. 16, no. 3&4, pp. 332–356, Mar. 2016.
+- A. Shafaei, *M. J. Dousti*, and M. Pedram, "[./papers/quantum/qcad-nova15.pdf Computer-Aided Design for Next-Generation Quantum Computing Systems]," in /New Developments in Quantum Optics Research/, N. Stewart, Ed., Nova Science Publishers, 2015.
+- *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/squash-glsvlsi14.pdf Squash: A Scalable Quantum Mapper Considering Ancilla Sharing]," in /Proc. of Great Lakes Symposium on VLSI/ (GLSVLSI), May 2014.
+- H. Goudarzi, *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/qufd-qip14.pdf Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits]," /Journal of Quantum Information Processing/ (QIP), Jan. 2014.
+- *M. J. Dousti* and M. Pedram, "[./papers/quantum/leqa-dac13.pdf LEQA: Latency Estimation for a Quantum Algorithm Mapped to a Quantum Circuit Fabric]," in /Proc. of Design Automation Conference/ (DAC), Jun. 2013.
+- A. JavadiAbhari, A. Faruque, *M. J. Dousti*, L. Svec, O. Catu, A. Chakrabati, C.-F. Chiang, S. Vanderwilt, J. Black, and F. Chong, "[./papers/quantum/scaffold_report.pdf Scaffold: Quantum Programming Language]," Department of Computer Science, Princeton University, TR-934-12, Jun. 2012, p. 43.
+- *M. J. Dousti* and M. Pedram, "[./papers/quantum/qspr-date12.pdf Minimizing the Latency of Quantum Circuits During Mapping to the Ion-Trap Circuit Fabric]," in /Proc. of Design Automation and Test in Europe/ (DATE), Mar. 2012.
+
+== FinFet Library Characterization
+
+- Q. Xie, X. Lin, Y. Wang, S. Chen, *M. J. Dousti* and M. Pedram, "[./papers/finfet/finfet-comp-tcasII.pdf Performance Comparisons between 7nm FinFET and Conventional Bulk CMOS Standard Cell Libraries]," /IEEE Transactions on Circuits and Systems II/ (TCAS II), vol. 62, no. 8, pp. 761–765, Jan. 2015.
+- Q. Xie, X. Lin, Y. Wang, *M. J. Dousti*, A. Shafaei, M. Ghasemi-Gol, and M. Pedram, "[./papers/finfet/finfet-opt-isvlsi14.pdf 5nm FinFET standard cell library optimization and circuit synthesis in near- and super-threshold voltage regimes]," in /Proc. of the IEEE Computer Society Annual Symposium on VLSI/ (ISVLSI), Jul. 2014.
+
+== Dissertations
+
+- *M. J. Dousti*, "[http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll40/id/175157 Thermal Modeling and Control in Mobile and Server Systems]," /Ph.D. Dissertation/, University of Southern California, 2015.
+- *M. J. Dousti* and Pooria Joulani, "Integration, Verification, and Evaluation of a Fault-Tolerant Embedded Microprocessor," /B.Sc. Dissertation/, Sharif University of Technology, 2010.
