@@ -1,7 +1,7 @@
-# jemdoc: menu{MENU}{publications.html}
-= Publications
+- jemdoc: menu{MENU}{publications.html}
+- Publications
 
-Check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Google Scholar] page for citation info.
+Publications sorted by type are listed [./publications_by_type.html here].Publications sorted by subject can be obtained [./publications_by_subject.html here]. Also check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Google Scholar] page for citation info.
 
 == Power-Aware Thermal Management and Cooling
 
@@ -20,13 +20,12 @@ Check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Googl
 - *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/squash-glsvlsi14.pdf Squash: A Scalable Quantum Mapper Considering Ancilla Sharing]," in /Proc. of Great Lakes Symposium on VLSI/ (GLSVLSI), May 2014.
 - H. Goudarzi, *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/qufd-qip14.pdf Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits]," /Journal of Quantum Information Processing/ (QIP), Jan. 2014.
 - *M. J. Dousti* and M. Pedram, "[./papers/quantum/leqa-dac13.pdf LEQA: Latency Estimation for a Quantum Algorithm Mapped to a Quantum Circuit Fabric]," in /Proc. of Design Automation Conference/ (DAC), Jun. 2013.
-- A. JavadiAbhari, A. Faruque, *M. J. Dousti*, L. Svec, O. Catu, A. Chakrabati, C.-F. Chiang, S. Vanderwilt, J. Black, and F. Chong, "[./papers/quantum/scaffold_report.pdf Scaffold: Quantum Programming Language]," Department of Computer Science, Princeton University, TR-934-12, Jun. 2012, p. 43.
 - *M. J. Dousti* and M. Pedram, "[./papers/quantum/qspr-date12.pdf Minimizing the Latency of Quantum Circuits During Mapping to the Ion-Trap Circuit Fabric]," in /Proc. of Design Automation and Test in Europe/ (DATE), Mar. 2012.
 
 == FinFet Library Characterization
 
 - Q. Xie, X. Lin, Y. Wang, S. Chen, *M. J. Dousti* and M. Pedram, "[./papers/finfet/finfet-comp-tcasII.pdf Performance Comparisons between 7nm FinFET and Conventional Bulk CMOS Standard Cell Libraries]," /IEEE Transactions on Circuits and Systems II/ (TCAS II), vol. 62, no. 8, pp. 761–765, Jan. 2015.
-- Q. Xie, X. Lin, Y. Wang, *M. J. Dousti*, A. Shafaei, M. Ghasemi-Gol, and M. Pedram, "[./papers/finfet/finfet-opt-isvlsi14.pdf 5nm FinFET standard cell library optimization and circuit synthesis in near- and super-threshold voltage regimes]," in /Proc. of the IEEE Computer Society Annual Symposium on VLSI/ (ISVLSI), Jul. 2014.
+- Q. Xie, X. Lin, Y. Wang, *M. J. Dousti*, A. Shafaei, M. Ghasemi-Gol, and M. Pedram, "[./papers/finfet/finfet-opt-isvlsi14.pdf 5nm FinFET standard cell library optimization and circuit synthesis in near. and super-threshold voltage regimes]," in /Proc. of the IEEE Computer Society Annual Symposium on VLSI/ (ISVLSI), Jul. 2014.
 
 == Dissertations
 
