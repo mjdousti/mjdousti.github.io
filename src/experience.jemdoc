@@ -6,11 +6,14 @@
 
 === [https://www.fb.com/newsroom Facebook Inc.], Menlo Park, CA, USA (Oct. 2015 -- Now)
 - *Senior Research Scientist in Facebook AI* (Dec. 2017 -- Now)\n
-	-- Working on NLP problems (named entity linking and neural machine translation.)
-	-- Interviewed 150+ candidates for machine learning system design, system design, behavioral, and coding skills.
+  -- Working on end-to-end speech translation.
+  -- Trained and deployed state-of-the-art neural machine translation system on semi- and unsupervised parallel data.
+  -- Trained and deployed the industry's largest (in terms of coverage and traffic) language identification model for 183 languages.
+  -- Trained and deployed a named entity linking model (NEL) in 16 languages and achieved the state-of-the-art results in social network domain.
+  -- Interviewed 165+ candidates for machine learning, system design, behavioral, and coding skills.
 
 - *Senior Research Scientist in Ads* (Oct. 2015 -- Dec. 2017)\n
-	-- Worked on real-time data analytics to derive pre-campaign insights.
+  -- Developed a real-time data analytics platform to provide insights for campaign ads.
 
 
 === *[https://www.nvidia.com NVIDIA Corporation], Santa Clara, CA, USA (Summer 2012)*\n
