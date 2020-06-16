@@ -1,15 +1,12 @@
 # jemdoc: menu{MENU}{skills.html}
 = Skills 
 
-
+- *Programming Languages:* C/C\+\+, Python, Java, Bash & Batch Scripting, HTML, PHP/Hack
+- *Operating Systems:* Linux, Windows, MacOS X 
+- *Version Control:* Mercurial, Git, SVN, Perforce
 - *Hardware Tools:*
-  -- *ASIC Design:* Cadence Virtuoso/Spectre/Encounter, Synopsys Design Compiler\/HSPICE\/PrimeTime\/Formality, Tanner Tools
-  -- *HDL & FPGA:* ModelSim, Leonardo, HDL Designer, Synplify, Xilinx ISE, Altera Quartus (& MaxPlus)
-  -- *Computer Architecture:* SimpleScalar
-  -- *Microcontroller Programming:* CodeVision AVR, Keil C51, Proteus, IAR Embedded Workbench
-- *Programming Languages:* C/C\+\+, Java, TCL, Verilog HDL, VHDL, Perl, SPICE, Assembly x86, .Net Programming, Pascal, Basic, Bash & Batch Scripting, HTML, PHP
-- *Operating Systems:* Unix, Linux, Windows, Cisco IOS & CatOS, VMware ESX Server
-- *Version Control:* Git, SVN, Perforce
-- *Networking Servers:* DNS (BIND 9), OpenLDAP, Postfix, S\/FTP, OpenSSH, Apache & IIS, IPTables, VNC
-- *Networking Tools:* Wireshark, tcpdump, Nmap, Cisco Packet Tracer, Cisco Network Assistant, SolarWinds tools
-- *Other Tools:* MATLAB, System Debuggers: Gnu Debugger (GDB), IDA Pro, DriverStudio (SoftICE), OllyDbg
+  -- *ASIC Design:* Cadence Virtuoso/Spectre, Synopsys Design Compiler\/HSPICE\/PrimeTime\/Formality
+  -- *HDL & FPGA:* ModelSim, Xilinx ISE, Intel Quartus
+  -- *Microcontroller Programming:* CodeVision AVR, Keil C51, Proteus
+  -- *Programming:* Verilog HDL, Assembly x86
+- *Other Tools:* MATLAB
