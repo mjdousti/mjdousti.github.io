@@ -3,6 +3,10 @@
 
 Publications sorted by type are listed [./publications_by_type.html here].Publications sorted by subject can be obtained [./publications_by_subject.html here]. Also check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Google Scholar] page for citation info.
 
+== Natural Language Processing
+- J. M. Pino, Q. Xu, X. Ma, *M. J. Dousti*, Y. Tang, "[./papers/nlp/self_training.pdf Self-Training for End-to-End Speech Translation]," arXiv:2006.02490 [cs], Jun. 2020.
+- X. Yan, B. Xue, J. Shankar, R. K. Shenoy, J. Du, *M. J. Dousti*, and V. S. Stoyanov, "[./papers/nlp/US20200065422.pdf Document entity linking on online social networks]," U.S. Patent US20200065422, 2020, under review.
+
 == Power-Aware Thermal Management and Cooling
 
 - *M. J. Dousti*, A. Petraglia, and M. Pedram, "[./papers/thermal/teg_mppt.pdf Maximum Power Point Tracking for Thermoelectric Generators Using their Accurate Electrothermal Model]," in /Advances in Energy Research/, M. J. Acosta, Ed., vol. 26, Nova Science Publishers, 2017.
