@@ -11,6 +11,7 @@ Publications sorted by type are listed [./publications_by_type.html here]. Also 
 
 == Power-Aware Thermal Management and Cooling
 
+- *M. J. Dousti*, Q. Xie, M. Nazemi, and M. Pedram, "Therminator 2: A fast thermal simulator for portable devices," /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, 2021, in print.
 - *M. J. Dousti*, A. Petraglia, and M. Pedram, "[./papers/thermal/teg_mppt.pdf Maximum Power Point Tracking for Thermoelectric Generators Using their Accurate Electrothermal Model]," in /Advances in Energy Research/, M. J. Acosta, Ed., vol. 26, Nova Science Publishers, 2017.
 - *M. J. Dousti*, M. Ghasemi-Gol, M. Nazemi, and M. Pedram, "[./papers/thermal/thermtap-islped15.pdf ThermTap: An Online Power Analyzer and Thermal Simulator for Android Devices]," in /Proc. of International Symposium on Low Power Electronics and Design/ (ISLPED), Jul. 2015.
 - *M. J. Dousti* and M. Pedram, "[./papers/thermal/tec-switchcontrol-date15.pdf Power-Efficient Control of Thermoelectric Coolers Considering Distributed Hot Spots]," in /Proc. of Design Automation and Test in Europe/ (DATE), Mar. 2015.
