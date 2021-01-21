@@ -2,17 +2,17 @@
 = Experience \/ Service
 
 
-== Work Experience
+#== Work Experience
 
-=== *[https://www.nvidia.com NVIDIA Corporation], Santa Clara, CA, USA (Summer 2012)*\n
-- *ASIC Design Intern in the Clock Design Team*
-  -- Unified the clock synthesis flow of SoC processors,
-  -- Designed a CAD tool to enhance the SoC clock design and its interplay with other components.
+#=== *[https://www.nvidia.com NVIDIA Corporation], Santa Clara, CA, USA (Summer 2012)*\n
+#- *ASIC Design Intern in the Clock Design Team*
+#  -- Unified the clock synthesis flow of SoC processors,
+#  -- Designed a CAD tool to enhance the SoC clock design and its interplay with other components.
 
-=== *[http://www.en.sharif.edu Sharif University of Technology], Tehran, Iran (2007-2010)*\n
-- *Senior Systems and Network Administrator in the [http://ce.sharif.edu/ Department of Computer Engineering]*
-  -- Led the administration team of 5 members since 2008.
-  -- Designed and executed the new department network infrastructure (costing over $150,000 with more than 800 Ethernet ports and core capacity of 32 Gbps).
+#=== *[http://www.en.sharif.edu Sharif University of Technology], Tehran, Iran (2007-2010)*\n
+#- *Senior Systems and Network Administrator in the [http://ce.sharif.edu/ Department of Computer Engineering]*
+#  -- Led the administration team of 5 members since 2008.
+#  -- Designed and executed the new department network infrastructure (costing over $150,000 with more than 800 Ethernet ports and core capacity of 32 Gbps).
 
 
 == Professional Services
