@@ -31,19 +31,6 @@
 - Reviewer, [http://vlsidat.itri.org.tw/2014/General/ International Symposium on VLSI Design, Automation & Test (VLSI-DAT)], 2013
 - Reviewer, [https://web.archive.org/web/20181008132606/http://acmtecs.acm.org/ ACM Transactions on Embedded Computing Systems (TECS)], 2012
 
-== Teaching Experience
-
-=== Teaching Assistant
-
-- MOS VLSI Circuit Design, University of Southern California, Spring 2014
-- Digital Systems Design, Sharif University of Technology, Fall 2009
-- Internet Engineering, Sharif University of Technology, Fall 2009
-- Computer Structure and Language, Sharif University of Technology, Fall 2008
-
-=== Instructor
-
-- PLDs and Verilog HDL, Allameh-Helli High School, Summer 2008
-
 # == Selected Projects
 # 
 # - *Power/Thermal Analyzer for Android:* Instrumented Linux kernel using SystemTap to find hardware component activities. Developed accurate power macro-models for CPU, GPU, WiFi, LCD, and flash storage. Derived transient & steady-state temperature maps for every device component. Categorized android apps based on their power/thermal effects.

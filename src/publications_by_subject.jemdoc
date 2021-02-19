@@ -4,8 +4,8 @@
 Publications sorted by type are listed [./publications_by_type.html here]. Also check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Google Scholar] page for citation info.
 
 == Natural Language Processing
+- X. Ma, Y. Wang, *M. J. Dousti*, P. Koehn, and J. Pino, "[./papers/nlp/streaming_translation.pdf Streaming Simultaneous Speech Translation with Augmented Memory Transformer]," to appear in /Proc. of International Conference on Acoustics, Speech and Signal Processing/, Jun. 2021.
 - X. Ma, *M. J. Dousti*, C. Wang, J. Gu, and J. Pino, "[./papers/nlp/simuleval.pdf Simuleval: An evaluation toolkit for simultaneous translation]," in /Proceedings of the Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations/, Nov. 2020.
-- X. Ma, Y. Wang, *M. J. Dousti*, P. Koehn, and J. Pino, "[./papers/nlp/streaming_translation.pdf Streaming Simultaneous Speech Translation with Augmented Memory Transformer]," in /arXiv:2011.00033 {{[}}cs.CL{{]}}/, Oct. 2020.
 - J. M. Pino, Q. Xu, X. Ma, *M. J. Dousti*, and Y. Tang, "[./papers/nlp/self_training.pdf Self-Training for End-to-End Speech Translation]," in /INTERSPEECH/, Oct. 2020.
 - X. Yan, B. Xue, J. Shankar, R. K. Shenoy, J. Du, *M. J. Dousti*, and V. S. Stoyanov, "[./papers/nlp/US20200065422.pdf Document Entity Linking on Online Social Networks]," U.S. Patent US20200065422, 2020, under review.
 
