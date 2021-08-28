@@ -4,15 +4,26 @@
 
 #== Work Experience
 
-#=== *[https://www.nvidia.com NVIDIA Corporation], Santa Clara, CA, USA (Summer 2012)*\n
-#- *ASIC Design Intern in the Clock Design Team*
-#  -- Unified the clock synthesis flow of SoC processors,
-#  -- Designed a CAD tool to enhance the SoC clock design and its interplay with other components.
+=== [https://about.fb.com/ Facebook Inc.], Menlo Park, CA, USA (Oct. 2015 -- Dec. 2020)
+- *Senior Research Scientist in Facebook AI* (Dec. 2017 -- Dec. 2020)\n
+  -- Trained SoTA end-to-end speech translation.
+  -- Trained and deployed state-of-the-art neural machine translation system on semi- and unsupervised parallel data.
+  -- Trained and deployed the industry's largest (in terms of coverage and traffic) language identification model for 183 languages.
+  -- Trained and deployed a named entity linking model (NEL) in 16 languages and achieved the state-of-the-art results in social network domain.
+  -- Interviewed 165+ candidates for machine learning, system design, behavioral, and coding skills.
 
-#=== *[http://www.en.sharif.edu Sharif University of Technology], Tehran, Iran (2007-2010)*\n
-#- *Senior Systems and Network Administrator in the [http://ce.sharif.edu/ Department of Computer Engineering]*
-#  -- Led the administration team of 5 members since 2008.
-#  -- Designed and executed the new department network infrastructure (costing over $150,000 with more than 800 Ethernet ports and core capacity of 32 Gbps).
+- *Senior Research Scientist in Ads* (Oct. 2015 -- Dec. 2017)\n
+  -- Developed a real-time data analytics platform to provide insights for campaign ads.
+
+=== *[https://www.nvidia.com NVIDIA Corporation], Santa Clara, CA, USA (Summer 2012)*\n
+- *ASIC Design Intern in the Clock Design Team*
+  -- Unified the clock synthesis flow of SoC processors,
+  -- Designed a CAD tool to enhance the SoC clock design and its interplay with other components.
+
+=== *[http://www.en.sharif.edu Sharif University of Technology], Tehran, Iran (2007-2010)*\n
+- *Senior Systems and Network Administrator in the [http://ce.sharif.edu/ Department of Computer Engineering]*
+  -- Led the administration team of 5 members since 2008.
+  -- Designed and executed the new department network infrastructure (costing over $150,000 with more than 800 Ethernet ports and core capacity of 32 Gbps).
 
 
 == Professional Services
@@ -30,17 +41,3 @@
 - Invited reviewer, [http://www.lsi-cad.com/RM/ Reed-Muller Workshop], 2013
 - Reviewer, [http://vlsidat.itri.org.tw/2014/General/ International Symposium on VLSI Design, Automation & Test (VLSI-DAT)], 2013
 - Reviewer, [https://web.archive.org/web/20181008132606/http://acmtecs.acm.org/ ACM Transactions on Embedded Computing Systems (TECS)], 2012
-
-# == Selected Projects
-# 
-# - *Power/Thermal Analyzer for Android:* Instrumented Linux kernel using SystemTap to find hardware component activities. Developed accurate power macro-models for CPU, GPU, WiFi, LCD, and flash storage. Derived transient & steady-state temperature maps for every device component. Categorized android apps based on their power/thermal effects.
-# - *DDR2 Controller:* Designed and implemented a controller based on the JEDEC standard in Verilog capable of initializing, writing and reading in sequential and burst modes. Verified in Modelsim using Denali 512Mb DDR2 IP. Synthesized and got timing closure using Design Compiler.
-# - *Architecture Optimization:* Optimized a MIPS-based processor with average speed of 4857 MIPS and 194M transistors on 20.6mm2 die in 32nm technology using SimpleScalar and CACTI (Best Design at USC), 2011
-# - *Motion Estimator:* Designed a 333MHz motion estimator circuit which included a fast adder/subtractor, register bank, and two 256-bit SRAM in 180nm. Drawn a custom layout in Cadence Virtuoso, extracted netlist and validated through SPICE simulations in Cadence Spectre, 2011
-# - *Quantum Mapper:* Design of a quantum computer technology mapper (scheduler, placer, and router) for ion-trap technology (High-level synthesis and physical design tool implemented in Java) in 2011.
-# - *Automatic Test Pattern Generation:* Developed an ATPG using Path Oriented DEcision Making (PODEM) algorithm (in C++), 2011.
-# - *Integration, Verification and Evaluation of a Fault-Tolerant Processor based on LEON2:* Involved VHDL coding, pre and post-synthesis simulation using Modelsim, developing an automated HDL fault-injector in C to produce TCL scripts for Modelsim, and synthesis using Design Compiler, 2008-2010
-# - *Mini Pascal Compiler:* Designed a compiler including lexical analyzer, parser, and semantic analyzer (Java programming), 2010.
-# - *Fingerprint Checker:* Designed a fingerprint-based security system on AVR microprocessor (Embedded C programming using CodeVision AVR and simulation using Proteus), 2009
-# - *PintOS:* Implemented a thread scheduler and the capability to execute system functions and user programs (System-level C programming), 2008
-# - *Single-Instruction CPU:* Designed a one-instruction CPU in Verilog HDL with its own assembly syntax. All the regular RISC instruction set can be implemented using this single instruction, 2008
