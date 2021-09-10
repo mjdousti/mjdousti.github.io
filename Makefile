@@ -1,5 +1,5 @@
 default:
-	cd src && python jemdoc.py -c mysite.conf -o ../ *.jemdoc
+	cd src && python3 jemdoc.py -c mysite.conf -o ../ *.jemdoc
 
 clean:
 	rm *.html
