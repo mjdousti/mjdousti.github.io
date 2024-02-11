@@ -4,7 +4,8 @@
 Publications sorted by type are listed [./publications_by_type.html here]. Also check out my [https://scholar.google.com/citations?user=EGv2ij0AAAAJ&hl=en Google Scholar] page for citation info.
 
 == Natural Language Processing
-- F. Azadi, H. Faili, and *M. J. Dousti*, "PMI-Align: Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data," to appear in /Findings of the Association for Computational Linguistics (ACL)/, Jul. 2023.
+- F. Azadi, H. Faili, and *M. J. Dousti*, "Mismatching-Aware Unsupervised Translation Quality Estimation For Low-Resource Languages," to appear in /Language Resources and Evaluation/..
+- F. Azadi, H. Faili, and *M. J. Dousti*, "PMI-Align: Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data," in /Findings of the Association for Computational Linguistics (ACL)/, Jul. 2023.
 - M. H. Jafari-Harandi, F. Azadi, S. Rafiei, H. Faili, and *M. J. Dousti*, "Presenting a quality estimation model of English to Farsi machine translator using transfer learning," /Language and Linguistics/, vol. 18, no. 35, Feb. 2023.
 - X. Ma, Y. Wang, *M. J. Dousti*, P. Koehn, and J. Pino, "[./papers/nlp/streaming_translation.pdf Streaming Simultaneous Speech Translation with Augmented Memory Transformer]," in /Proc. of International Conference on Acoustics, Speech and Signal Processing/, Jun. 2021.
 - X. Ma, *M. J. Dousti*, C. Wang, J. Gu, and J. Pino, "[./papers/nlp/simuleval.pdf Simuleval: An evaluation toolkit for simultaneous translation]," in /Proc. of the Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations/, Nov. 2020.
