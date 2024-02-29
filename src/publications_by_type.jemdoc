@@ -19,6 +19,8 @@ Publications sorted by subject are listed [./publications_by_subject.html here].
 - H. Goudarzi, *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/qufd-qip14.pdf Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits]," /Journal of Quantum Information Processing/ (QIP), Jan. 2014.
 
 == Conference Papers
+- M. Esalati, *M. J. Dousti*, and H. Faili, "{{<span style="font-variant:small-caps;">Esposito</span>}}: An English-Persian Scientific Parallel Corpus for Machine Translation," to appear in /LREC-Coling/, May 2024.
+- M. H. Jafari-Harandi, F. Azadi, *M. J. Dousti*, and H. Faili, "{{<span style="font-variant:small-caps;">Epoque</span>}}: An English-Persian Quality Estimation Dataset," to appear in /LREC-Coling/, May 2024.
 - F. Azadi, H. Faili, and *M. J. Dousti*, "PMI-Align: Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data," in /Findings of the Association for Computational Linguistics (ACL)/, Jul. 2023.
 - X. Ma, Y. Wang, *M. J. Dousti*, P. Koehn, and J. Pino, "[./papers/nlp/streaming_translation.pdf Streaming Simultaneous Speech Translation with Augmented Memory Transformer]," in /Proc. of International Conference on Acoustics, Speech and Signal Processing/, Jun. 2021.
 - X. Ma, *M. J. Dousti*, C. Wang, J. Gu, and J. Pino, "[./papers/nlp/simuleval.pdf Simuleval: An evaluation toolkit for simultaneous translation]," in /Proc. of the Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations/, Nov. 2020. 
