@@ -38,8 +38,3 @@ Publications sorted by type are listed [./publications_by_type.html here]. Also 
 
 - Q. Xie, X. Lin, Y. Wang, S. Chen, *M. J. Dousti* and M. Pedram, "[./papers/finfet/finfet-comp-tcasII.pdf Performance Comparisons between 7nm FinFET and Conventional Bulk CMOS Standard Cell Libraries]," /IEEE Transactions on Circuits and Systems II/ (TCAS II), vol. 62, no. 8, pp. 761–765, Jan. 2015.
 - Q. Xie, X. Lin, Y. Wang, *M. J. Dousti*, A. Shafaei, M. Ghasemi-Gol, and M. Pedram, "[./papers/finfet/finfet-opt-isvlsi14.pdf 5nm FinFET standard cell library optimization and circuit synthesis in near. and super-threshold voltage regimes]," in /Proc. of the IEEE Computer Society Annual Symposium on VLSI/ (ISVLSI), Jul. 2014.
-
-== Dissertations
-
-- *M. J. Dousti*, "[./papers/phd_thesis.pdf Thermal Modeling and Control in Mobile and Server Systems]," /Ph.D. Dissertation/, University of Southern California, 2015.
-- *M. J. Dousti* and Pooria Joulani, "[./papers/bsc_thesis.pdf Integration, Verification, and Evaluation of a Fault-Tolerant Embedded Microprocessor]," (in Farsi) /B.Sc. Dissertation/, Sharif University of Technology, 2010.

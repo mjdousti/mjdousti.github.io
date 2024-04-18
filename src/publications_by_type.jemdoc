@@ -35,8 +35,3 @@ Publications sorted by subject are listed [./publications_by_subject.html here].
 - *M. J. Dousti* and M. Pedram, "[./papers/thermal/tec_modeling-islped13.pdf Platform-Dependent, Leakage-Aware Control of the Driving Current of Embedded Thermoelectric Coolers]," in /Proc. of the Int’l Symposium on Low Power Electronics and Design/ (ISLPED), Sep. 2013. (*Updated version*)
 - *M. J. Dousti* and M. Pedram, "[./papers/quantum/leqa-dac13.pdf LEQA: Latency Estimation for a Quantum Algorithm Mapped to a Quantum Circuit Fabric]," in /Proc. of Design Automation Conference/ (DAC), Jun. 2013.
 - *M. J. Dousti* and M. Pedram, "[./papers/quantum/qspr-date12.pdf Minimizing the Latency of Quantum Circuits During Mapping to the Ion-Trap Circuit Fabric]," in /Proc. of Design Automation and Test in Europe/ (DATE), Mar. 2012.
-
-== Dissertations
-
-- *M. J. Dousti*, "[./papers/phd_thesis.pdf Thermal Modeling and Control in Mobile and Server Systems]," /Ph.D. Dissertation/, University of Southern California, 2015.
-- *M. J. Dousti* and Pooria Joulani, "[./papers/bsc_thesis.pdf Integration, Verification, and Evaluation of a Fault-Tolerant Embedded Microprocessor]," (in Farsi) /B.Sc. Dissertation/, Sharif University of Technology, 2010.
