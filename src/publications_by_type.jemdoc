@@ -11,7 +11,7 @@ Publications sorted by subject are listed [./publications_by_subject.html here].
 - A. Shafaei, *M. J. Dousti*, and M. Pedram, "[./papers/quantum/qcad-nova15.pdf Computer-Aided Design for Next-Generation Quantum Computing Systems]," in /New Developments in Quantum Optics Research/, N. Stewart, Ed., Nova Science Publishers, 2015.
 
 == Journal Papers
-- F. Azadi, H. Faili, and *M. J. Dousti*, "Mismatching-Aware Unsupervised Translation Quality Estimation For Low-Resource Languages," to appear in /Language Resources and Evaluation/.
+- F. Azadi, H. Faili, and *M. J. Dousti*, "Mismatching-Aware Unsupervised Translation Quality Estimation For Low-Resource Languages," /Language Resources and Evaluation/, May 2024.
 - M. H. Jafari-Harandi, F. Azadi, S. Rafiei, H. Faili, and *M. J. Dousti*, "Presenting a quality estimation model of English to Farsi machine translator using transfer learning," /Language and Linguistics/, vol. 18, no. 35, Feb. 2023.
 - *M. J. Dousti*, Q. Xie, M. Nazemi, and M. Pedram, "[./papers/thermal/therminator2-tcad2021.pdf Therminator 2: A Fast Thermal Simulator for Portable Devices]," /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, vol. 40, no. 12, pp. 2528-2541, Jan. 2021.
 - *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/squash2-qic16.pdf Squash 2: A Hierarchical Scalable Quantum Mapper Considering Ancilla Sharing]," /Quantum Information & Computation/ (QIC), vol. 16, no. 3&4, pp. 332–356, Mar. 2016.
@@ -19,8 +19,8 @@ Publications sorted by subject are listed [./publications_by_subject.html here].
 - H. Goudarzi, *M. J. Dousti*, A. Shafaei, and M. Pedram, "[./papers/quantum/qufd-qip14.pdf Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits]," /Journal of Quantum Information Processing/ (QIP), Jan. 2014.
 
 == Conference Papers
-- M. Esalati, *M. J. Dousti*, and H. Faili, "{{<span style="font-variant:small-caps;">Esposito</span>}}: An English-Persian Scientific Parallel Corpus for Machine Translation," to appear in /LREC-Coling/, May 2024.
-- M. H. Jafari-Harandi, F. Azadi, *M. J. Dousti*, and H. Faili, "{{<span style="font-variant:small-caps;">Epoque</span>}}: An English-Persian Quality Estimation Dataset," to appear in /LREC-Coling/, May 2024.
+- M. Esalati, *M. J. Dousti*, and H. Faili, "{{<span style="font-variant:small-caps;">Esposito</span>}}: An English-Persian Scientific Parallel Corpus for Machine Translation," in /LREC-Coling/, May 2024.
+- M. H. Jafari-Harandi, F. Azadi, *M. J. Dousti*, and H. Faili, "{{<span style="font-variant:small-caps;">Epoque</span>}}: An English-Persian Quality Estimation Dataset," in /LREC-Coling/, May 2024.
 - F. Azadi, H. Faili, and *M. J. Dousti*, "PMI-Align: Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data," in /Findings of the Association for Computational Linguistics (ACL)/, Jul. 2023.
 - X. Ma, Y. Wang, *M. J. Dousti*, P. Koehn, and J. Pino, "[./papers/nlp/streaming_translation.pdf Streaming Simultaneous Speech Translation with Augmented Memory Transformer]," in /Proc. of International Conference on Acoustics, Speech and Signal Processing/, Jun. 2021.
 - X. Ma, *M. J. Dousti*, C. Wang, J. Gu, and J. Pino, "[./papers/nlp/simuleval.pdf Simuleval: An evaluation toolkit for simultaneous translation]," in /Proc. of the Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations/, Nov. 2020. 
