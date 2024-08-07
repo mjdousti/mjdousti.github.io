@@ -15,7 +15,7 @@ Publications sorted by type are listed [./publications_by_type.html here]. Also 
 #- X. Yan, B. Xue, J. Shankar, R. K. Shenoy, J. Du, *M. J. Dousti*, and V. S. Stoyanov, "[./papers/nlp/US20200065422.pdf Document Entity Linking on Online Social Networks]," U.S. Patent US20200065422, 2020, under review.
 
 == Power-Aware Thermal Management and Cooling
-
+- M. Akhsham, *M. J. Dousti*, and S. Safari, "Neural Network-Based Control of Forced-Convection and Thermoelectric Coolers," /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, 2024.
 - *M. J. Dousti*, Q. Xie, M. Nazemi, and M. Pedram, "[./papers/thermal/therminator2-tcad2021.pdf Therminator 2: A Fast Thermal Simulator for Portable Devices]," /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, vol. 40, no. 12, pp. 2528-2541, Jan. 2021.
 - *M. J. Dousti*, A. Petraglia, and M. Pedram, "[./papers/thermal/teg_mppt.pdf Maximum Power Point Tracking for Thermoelectric Generators Using their Accurate Electrothermal Model]," in /Advances in Energy Research/, M. J. Acosta, Ed., vol. 26, Nova Science Publishers, 2017.
 - *M. J. Dousti*, M. Ghasemi-Gol, M. Nazemi, and M. Pedram, "[./papers/thermal/thermtap-islped15.pdf ThermTap: An Online Power Analyzer and Thermal Simulator for Android Devices]," in /Proc. of International Symposium on Low Power Electronics and Design/ (ISLPED), Jul. 2015.
