@@ -39,13 +39,27 @@
 <h1>Mohammad Javad Dousti</h1>
 </div>
 <table class="imgtable"><tr><td>
-    <img src="images/profile.jpg" alt="profile photo"
-        onmouseover="this.src='images/profile_anime.jpg'"
-        onmouseout="this.src='images/profile.jpg'"
-        width="200px" height="200px" />
-    <td align="left"><p>Mohammad Javad Dousti, Ph.D.<br />
-    Email: <img src="images/signature.png" style="vertical-align:middle" alt="my email"></p>
+<img src="images/profile.jpg" alt="profile photo" width="200px" height="200px" />&nbsp;</td>
+<td align="left"><p>Mohammad Javad Dousti, Ph.D.<br />
+Email: <img src="images/signature.png" style="vertical-align:middle" alt="my email"></p>
 </td></tr></table>
+<script>
+	const myImage = document.querySelector('img'); //document.getElementById('myImage');
+	const originalSrc = myImage.src;
+
+	function changeImage() {
+	  myImage.src = 'images/profile_anime.jpg';
+	}
+
+	function restoreImage() {
+	  myImage.src = originalSrc;
+	}
+
+	myImage.addEventListener('mouseover', changeImage);
+	myImage.addEventListener('touchstart', changeImage);
+	myImage.addEventListener('mouseout', restoreImage);
+	myImage.addEventListener('touchend', restoreImage);
+</script>
 <h2>Education</h2>
 <ul>
 <li><p><b>Ph.D., Computer Engineering</b> (2015)<br />
