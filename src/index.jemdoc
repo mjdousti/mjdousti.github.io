@@ -2,7 +2,7 @@
 = Mohammad Javad Dousti
 
 ~~~
-{}{img_left}{images/profile.jpg}{profile photo}{200px}{200px}{}
+{}{img_left}{images/profile.webp}{profile photo}{200px}{200px}{}
 Mohammad Javad Dousti, Ph.D.\n
 Email: {{<img src="images/signature.png" style="vertical-align:middle" alt="my email">}}
 ~~~
@@ -14,7 +14,7 @@ Email: {{<img src="images/signature.png" style="vertical-align:middle" alt="my e
 	const originalSrc = myImage.src;
 
 	function changeImage() {
-	  myImage.src = 'images/profile_anime.jpg';
+	  myImage.src = 'images/profile_anime.webp';
 	}
 
 	function restoreImage() {
