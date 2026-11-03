@@ -2,20 +2,48 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Publications</title>
 <link rel="icon" href="./favicon.ico">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<!-- Images are served from jsDelivr (see Makefile). If the CDN fails, fall back to this site. -->
+<script type="text/javascript">
+var CDN = "https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master";
+document.addEventListener("error", function (e) {
+  var img = e.target;
+  if (img.tagName === "IMG" && img.src.indexOf(CDN) === 0) {
+    img.src = img.src.slice(CDN.length);
+  }
+}, true);
+</script>
+<title>Publications</title>
 <meta name="keywords" content="محمدجواد دوستی, دوستی, محمدجواد, صفحه خانگی, Mohammad Javad Dousti, Mohammad Javad, Dousti, Home Page" />
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
 </head>
 <body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="./favicon.ico" alt="Mohammad Javad Dousti"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">Mohammad Javad Dousti</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
 <div class="menu-category">Mohammad Javad Dousti</div>
 <div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="publications_by_subject.html">Publications</a></div>
@@ -26,8 +54,10 @@
 <div class="menu-item"><a href="https://dblp.org/pers/hd/d/Dousti:Mohammad_Javad">DBLP</a></div>
 <div class="menu-item"><a href="https://github.com/mjdousti">GitHub</a></div>
 <div class="menu-item"><a href="https://www.linkedin.com/in/mjdousti">LinkedIn</a></div>
-</td>
-<td id="layout-content">
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
 <div id="toptitle">
 <h1>Publications</h1>
 </div>
@@ -58,11 +88,11 @@
 </li>
 <li><p>M. H. Jafari-Harandi, F. Azadi, S. Rafiei, H. Faili, and <b>M. J. Dousti</b>, &ldquo;Presenting a quality estimation model of English to Farsi machine translator using transfer learning,&rdquo; <i>Language and Linguistics</i>, vol. 18, no. 35, Feb. 2023.</p>
 </li>
-<li><p>X. Ma, Y. Wang, <b>M. J. Dousti</b>, P. Koehn, and J. Pino, &ldquo;<a href="./papers/nlp/streaming_translation.pdf" target=&rdquo;blank&ldquo;>Streaming Simultaneous Speech Translation with Augmented Memory Transformer</a>,&rdquo; in <i>Proc. of International Conference on Acoustics, Speech and Signal Processing</i>, Jun. 2021.</p>
+<li><p>X. Ma, Y. Wang, <b>M. J. Dousti</b>, P. Koehn, and J. Pino, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/nlp/streaming_translation.pdf" target=&rdquo;blank&ldquo;>Streaming Simultaneous Speech Translation with Augmented Memory Transformer</a>,&rdquo; in <i>Proc. of International Conference on Acoustics, Speech and Signal Processing</i>, Jun. 2021.</p>
 </li>
-<li><p>X. Ma, <b>M. J. Dousti</b>, C. Wang, J. Gu, and J. Pino, &ldquo;<a href="./papers/nlp/simuleval.pdf" target=&rdquo;blank&ldquo;>Simuleval: An evaluation toolkit for simultaneous translation</a>,&rdquo; in <i>Proc. of the Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations</i>, Nov. 2020.</p>
+<li><p>X. Ma, <b>M. J. Dousti</b>, C. Wang, J. Gu, and J. Pino, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/nlp/simuleval.pdf" target=&rdquo;blank&ldquo;>Simuleval: An evaluation toolkit for simultaneous translation</a>,&rdquo; in <i>Proc. of the Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations</i>, Nov. 2020.</p>
 </li>
-<li><p>J. M. Pino, Q. Xu, X. Ma, <b>M. J. Dousti</b>, and Y. Tang, &ldquo;<a href="./papers/nlp/self_training.pdf" target=&rdquo;blank&ldquo;>Self-Training for End-to-End Speech Translation</a>,&rdquo; in <i>INTERSPEECH</i>, Oct. 2020.
+<li><p>J. M. Pino, Q. Xu, X. Ma, <b>M. J. Dousti</b>, and Y. Tang, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/nlp/self_training.pdf" target=&rdquo;blank&ldquo;>Self-Training for End-to-End Speech Translation</a>,&rdquo; in <i>INTERSPEECH</i>, Oct. 2020.
 </p>
 </li>
 </ul>
@@ -70,48 +100,68 @@
 <ul>
 <li><p>M. Akhsham, <b>M. J. Dousti</b>, and S. Safari, &ldquo;Neural Network-Based Control of Forced-Convection and Thermoelectric Coolers,&rdquo; <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024.</p>
 </li>
-<li><p><b>M. J. Dousti</b>, Q. Xie, M. Nazemi, and M. Pedram, &ldquo;<a href="./papers/thermal/therminator2-tcad2021.pdf" target=&rdquo;blank&ldquo;>Therminator 2: A Fast Thermal Simulator for Portable Devices</a>,&rdquo; <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 12, pp. 2528-2541, Jan. 2021.</p>
+<li><p><b>M. J. Dousti</b>, Q. Xie, M. Nazemi, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/therminator2-tcad2021.pdf" target=&rdquo;blank&ldquo;>Therminator 2: A Fast Thermal Simulator for Portable Devices</a>,&rdquo; <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 12, pp. 2528-2541, Jan. 2021.</p>
 </li>
-<li><p><b>M. J. Dousti</b>, A. Petraglia, and M. Pedram, &ldquo;<a href="./papers/thermal/teg_mppt.pdf" target=&rdquo;blank&ldquo;>Maximum Power Point Tracking for Thermoelectric Generators Using their Accurate Electrothermal Model</a>,&rdquo; in <i>Advances in Energy Research</i>, M. J. Acosta, Ed., vol. 26, Nova Science Publishers, 2017.</p>
+<li><p><b>M. J. Dousti</b>, A. Petraglia, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/teg_mppt.pdf" target=&rdquo;blank&ldquo;>Maximum Power Point Tracking for Thermoelectric Generators Using their Accurate Electrothermal Model</a>,&rdquo; in <i>Advances in Energy Research</i>, M. J. Acosta, Ed., vol. 26, Nova Science Publishers, 2017.</p>
 </li>
-<li><p><b>M. J. Dousti</b>, M. Ghasemi-Gol, M. Nazemi, and M. Pedram, &ldquo;<a href="./papers/thermal/thermtap-islped15.pdf" target=&rdquo;blank&ldquo;>ThermTap: An Online Power Analyzer and Thermal Simulator for Android Devices</a>,&rdquo; in <i>Proc. of International Symposium on Low Power Electronics and Design</i> (ISLPED), Jul. 2015.</p>
+<li><p><b>M. J. Dousti</b>, M. Ghasemi-Gol, M. Nazemi, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/thermtap-islped15.pdf" target=&rdquo;blank&ldquo;>ThermTap: An Online Power Analyzer and Thermal Simulator for Android Devices</a>,&rdquo; in <i>Proc. of International Symposium on Low Power Electronics and Design</i> (ISLPED), Jul. 2015.</p>
 </li>
-<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="./papers/thermal/tec-switchcontrol-date15.pdf" target=&rdquo;blank&ldquo;>Power-Efficient Control of Thermoelectric Coolers Considering Distributed Hot Spots</a>,&rdquo; in <i>Proc. of Design Automation and Test in Europe</i> (DATE), Mar. 2015.</p>
+<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/tec-switchcontrol-date15.pdf" target=&rdquo;blank&ldquo;>Power-Efficient Control of Thermoelectric Coolers Considering Distributed Hot Spots</a>,&rdquo; in <i>Proc. of Design Automation and Test in Europe</i> (DATE), Mar. 2015.</p>
 </li>
-<li><p><b>M. J. Dousti</b>, A. Petraglia, and M. Pedram, &ldquo;<a href="./papers/thermal/teg-date15.pdf" target=&rdquo;blank&ldquo;>Accurate Electrothermal Modeling of Thermoelectric Generators</a>,&rdquo; in <i>Proc. of Design Automation and Test in Europe</i> (DATE), Mar. 2015.</p>
+<li><p><b>M. J. Dousti</b>, A. Petraglia, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/teg-date15.pdf" target=&rdquo;blank&ldquo;>Accurate Electrothermal Modeling of Thermoelectric Generators</a>,&rdquo; in <i>Proc. of Design Automation and Test in Europe</i> (DATE), Mar. 2015.</p>
 </li>
-<li><p>Q. Xie, <b>M. J. Dousti</b>, and M. Pedram, &ldquo;<a href="./papers/thermal/therminator-islped14.pdf" target=&rdquo;blank&ldquo;>Therminator: A Thermal Simulator for Smartphones Producing Accurate Chip and Skin Temperature Maps</a>,&rdquo; in <i>Proc. of the Int’l Symposium on Low Power Electronics and Design</i> (ISLPED), Aug. 2014.</p>
+<li><p>Q. Xie, <b>M. J. Dousti</b>, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/therminator-islped14.pdf" target=&rdquo;blank&ldquo;>Therminator: A Thermal Simulator for Smartphones Producing Accurate Chip and Skin Temperature Maps</a>,&rdquo; in <i>Proc. of the Int’l Symposium on Low Power Electronics and Design</i> (ISLPED), Aug. 2014.</p>
 </li>
-<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="./papers/thermal/tec_fan-dac14.pdf" target=&rdquo;blank&ldquo;>Power-Aware Deployment and Control of Forced-Convection and Thermoelectric Coolers</a>,&rdquo; in <i>Proc. of Design Automation Conference</i> (DAC), Jun. 2014.</p>
+<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/tec_fan-dac14.pdf" target=&rdquo;blank&ldquo;>Power-Aware Deployment and Control of Forced-Convection and Thermoelectric Coolers</a>,&rdquo; in <i>Proc. of Design Automation Conference</i> (DAC), Jun. 2014.</p>
 </li>
-<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="./papers/thermal/tec_modeling-islped13.pdf" target=&rdquo;blank&ldquo;>Platform-Dependent, Leakage-Aware Control of the Driving Current of Embedded Thermoelectric Coolers</a>,&rdquo; in <i>Proc. of the Int’l Symposium on Low Power Electronics and Design</i> (ISLPED), Sep. 2013. (<b>Updated version</b>)</p>
+<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/thermal/tec_modeling-islped13.pdf" target=&rdquo;blank&ldquo;>Platform-Dependent, Leakage-Aware Control of the Driving Current of Embedded Thermoelectric Coolers</a>,&rdquo; in <i>Proc. of the Int’l Symposium on Low Power Electronics and Design</i> (ISLPED), Sep. 2013. (<b>Updated version</b>)</p>
 </li>
 </ul>
 <h2>Physical Design for Quantum Computers</h2>
 <ul>
-<li><p><b>M. J. Dousti</b>, A. Shafaei, and M. Pedram, &ldquo;<a href="./papers/quantum/squash2-qic16.pdf" target=&rdquo;blank&ldquo;>Squash 2: A Hierarchical Scalable Quantum Mapper Considering Ancilla Sharing</a>,&rdquo; <i>Quantum Information &amp; Computation</i> (QIC), vol. 16, no. 3&amp;4, pp. 332–356, Mar. 2016.</p>
+<li><p><b>M. J. Dousti</b>, A. Shafaei, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/quantum/squash2-qic16.pdf" target=&rdquo;blank&ldquo;>Squash 2: A Hierarchical Scalable Quantum Mapper Considering Ancilla Sharing</a>,&rdquo; <i>Quantum Information &amp; Computation</i> (QIC), vol. 16, no. 3&amp;4, pp. 332–356, Mar. 2016.</p>
 </li>
-<li><p>A. Shafaei, <b>M. J. Dousti</b>, and M. Pedram, &ldquo;<a href="./papers/quantum/qcad-nova15.pdf" target=&rdquo;blank&ldquo;>Computer-Aided Design for Next-Generation Quantum Computing Systems</a>,&rdquo; in <i>New Developments in Quantum Optics Research</i>, N. Stewart, Ed., Nova Science Publishers, 2015.</p>
+<li><p>A. Shafaei, <b>M. J. Dousti</b>, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/quantum/qcad-nova15.pdf" target=&rdquo;blank&ldquo;>Computer-Aided Design for Next-Generation Quantum Computing Systems</a>,&rdquo; in <i>New Developments in Quantum Optics Research</i>, N. Stewart, Ed., Nova Science Publishers, 2015.</p>
 </li>
-<li><p><b>M. J. Dousti</b>, A. Shafaei, and M. Pedram, &ldquo;<a href="./papers/quantum/squash-glsvlsi14.pdf" target=&rdquo;blank&ldquo;>Squash: A Scalable Quantum Mapper Considering Ancilla Sharing</a>,&rdquo; in <i>Proc. of Great Lakes Symposium on VLSI</i> (GLSVLSI), May 2014.</p>
+<li><p><b>M. J. Dousti</b>, A. Shafaei, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/quantum/squash-glsvlsi14.pdf" target=&rdquo;blank&ldquo;>Squash: A Scalable Quantum Mapper Considering Ancilla Sharing</a>,&rdquo; in <i>Proc. of Great Lakes Symposium on VLSI</i> (GLSVLSI), May 2014.</p>
 </li>
-<li><p>H. Goudarzi, <b>M. J. Dousti</b>, A. Shafaei, and M. Pedram, &ldquo;<a href="./papers/quantum/qufd-qip14.pdf" target=&rdquo;blank&ldquo;>Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits</a>,&rdquo; <i>Journal of Quantum Information Processing</i> (QIP), Jan. 2014.</p>
+<li><p>H. Goudarzi, <b>M. J. Dousti</b>, A. Shafaei, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/quantum/qufd-qip14.pdf" target=&rdquo;blank&ldquo;>Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits</a>,&rdquo; <i>Journal of Quantum Information Processing</i> (QIP), Jan. 2014.</p>
 </li>
-<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="./papers/quantum/leqa-dac13.pdf" target=&rdquo;blank&ldquo;>LEQA: Latency Estimation for a Quantum Algorithm Mapped to a Quantum Circuit Fabric</a>,&rdquo; in <i>Proc. of Design Automation Conference</i> (DAC), Jun. 2013.</p>
+<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/quantum/leqa-dac13.pdf" target=&rdquo;blank&ldquo;>LEQA: Latency Estimation for a Quantum Algorithm Mapped to a Quantum Circuit Fabric</a>,&rdquo; in <i>Proc. of Design Automation Conference</i> (DAC), Jun. 2013.</p>
 </li>
-<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="./papers/quantum/qspr-date12.pdf" target=&rdquo;blank&ldquo;>Minimizing the Latency of Quantum Circuits During Mapping to the Ion-Trap Circuit Fabric</a>,&rdquo; in <i>Proc. of Design Automation and Test in Europe</i> (DATE), Mar. 2012.</p>
+<li><p><b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/quantum/qspr-date12.pdf" target=&rdquo;blank&ldquo;>Minimizing the Latency of Quantum Circuits During Mapping to the Ion-Trap Circuit Fabric</a>,&rdquo; in <i>Proc. of Design Automation and Test in Europe</i> (DATE), Mar. 2012.</p>
 </li>
 </ul>
 <h2>FinFet Library Characterization</h2>
 <ul>
-<li><p>Q. Xie, X. Lin, Y. Wang, S. Chen, <b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="./papers/finfet/finfet-comp-tcasII.pdf" target=&rdquo;blank&ldquo;>Performance Comparisons between 7nm FinFET and Conventional Bulk CMOS Standard Cell Libraries</a>,&rdquo; <i>IEEE Transactions on Circuits and Systems II</i> (TCAS II), vol. 62, no. 8, pp. 761–765, Jan. 2015.</p>
+<li><p>Q. Xie, X. Lin, Y. Wang, S. Chen, <b>M. J. Dousti</b> and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/finfet/finfet-comp-tcasII.pdf" target=&rdquo;blank&ldquo;>Performance Comparisons between 7nm FinFET and Conventional Bulk CMOS Standard Cell Libraries</a>,&rdquo; <i>IEEE Transactions on Circuits and Systems II</i> (TCAS II), vol. 62, no. 8, pp. 761–765, Jan. 2015.</p>
 </li>
-<li><p>Q. Xie, X. Lin, Y. Wang, <b>M. J. Dousti</b>, A. Shafaei, M. Ghasemi-Gol, and M. Pedram, &ldquo;<a href="./papers/finfet/finfet-opt-isvlsi14.pdf" target=&rdquo;blank&ldquo;>5nm FinFET standard cell library optimization and circuit synthesis in near. and super-threshold voltage regimes</a>,&rdquo; in <i>Proc. of the IEEE Computer Society Annual Symposium on VLSI</i> (ISVLSI), Jul. 2014.</p>
+<li><p>Q. Xie, X. Lin, Y. Wang, <b>M. J. Dousti</b>, A. Shafaei, M. Ghasemi-Gol, and M. Pedram, &ldquo;<a href="https://cdn.jsdelivr.net/gh/mjdousti/mjdousti.github.io@master/papers/finfet/finfet-opt-isvlsi14.pdf" target=&rdquo;blank&ldquo;>5nm FinFET standard cell library optimization and circuit synthesis in near. and super-threshold voltage regimes</a>,&rdquo; in <i>Proc. of the IEEE Computer Society Annual Symposium on VLSI</i> (ISVLSI), Jul. 2014.</p>
 </li>
 </ul>
-</td>
-</tr>
-</table>
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
 <!-- Default Statcounter code for USC Home Page
 http://www.mjdousti.com -->
 <script type="text/javascript">

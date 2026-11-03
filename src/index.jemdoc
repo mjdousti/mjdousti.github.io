@@ -10,11 +10,11 @@ Email: {{<img src="images/signature.png" style="vertical-align:middle" alt="my e
 ~~~
 {}{raw}
 <script>
-	const myImage = document.querySelector('img');
+	const myImage = document.querySelector('table.imgtable img');
 	const originalSrc = myImage.src;
 
 	function changeImage() {
-	  myImage.src = 'images/profile_anime.webp';
+	  myImage.src = originalSrc.replace('profile.webp', 'profile_anime.webp');
 	}
 
 	function restoreImage() {
