@@ -1,6 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
-= Mohammad Javad Dousti
-
+# jemdoc: menu{MENU}{index.html}, title{Mohammad Javad Dousti}
 ~~~
 {}{img_left}{images/profile.webp}{profile photo}{200px}{200px}{}
 Mohammad Javad Dousti, Ph.D.\n
