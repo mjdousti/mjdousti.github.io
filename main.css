@@ -817,3 +817,19 @@ div#header-text-container {
     text-align: center;
   }
 }
+
+/* Small screens: hamburger at the top left, before the name */
+@media screen and (max-width: 1200px) {
+	div#main {
+		order: -1;
+		margin: 0;
+		padding-left: 8px;
+		padding-right: 0;
+	}
+	div#header {
+		justify-content: flex-start;
+	}
+	div#header-icon-text-container {
+		padding-left: 8px;
+	}
+}
