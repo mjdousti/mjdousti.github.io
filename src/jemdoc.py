@@ -674,8 +674,13 @@ def replacelinks(b):
     if m1[0] == '/':
         option = ''
         m1 = m1[1:]
+    elif '://' in m1 or m1.lower().endswith('.pdf'):
+        # External sites and PDFs open in a new tab. The underscore is protected
+        # from jemdoc's _underline_ markup and restored later.
+        option = r' target=\"UNDERSCORE65358blank\" rel=\"noopener\"'
     else:
-        option = r' target=\"blank\"'
+        # Pages on this site open in the same tab.
+        option = ''
 
     if '@' in m1 and not m1.startswith('mailto:') and not \
        m1.startswith('http://'):
