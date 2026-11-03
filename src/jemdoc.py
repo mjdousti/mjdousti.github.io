@@ -675,7 +675,7 @@ def replacelinks(b):
         option = ''
         m1 = m1[1:]
     else:
-        option = ' target="blank"'
+        option = r' target=\"blank\"'
 
     if '@' in m1 and not m1.startswith('mailto:') and not \
        m1.startswith('http://'):
