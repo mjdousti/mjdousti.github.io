@@ -1,4 +1,4 @@
 # jemdoc: menu{MENU}{genealogy.html}
 = Academic Genealogy (for fun)
 
-{{<img src="images/genealogy.webp" width="70%" alt="my academic genealogy">}}
+{{<img src="images/genealogy.webp" style="width: 100%; height: auto; margin: 0;" alt="my academic genealogy">}}
