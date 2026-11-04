@@ -22,7 +22,7 @@ div#header-container {
 }
 
 div#header {
-	width: 100vw;
+	width: 100%;
 	height: 70px;
 	background: #24292e;
 	z-index: 1;
@@ -65,7 +65,7 @@ div#header-text-container a:hover{
 }
 
 div#layout {
-	width: 100vw;
+	width: 100%;
 	min-height: calc(100vh - 70px);
 	padding-bottom: 0;
 	display: inline-block;
@@ -82,7 +82,8 @@ div#layout-menu {
 	height: calc(100% - 97px);
 	min-width: 280px;
 	position: fixed;
-	overflow: scroll;
+	overflow-y: auto;
+	overflow-x: hidden;
 	background: #f6f8fa;
 	border-right: 0.8px solid #e1e4e8;
 }
@@ -94,7 +95,7 @@ div#layout-menu {
 
 
 div#layout-content-container {
-	width: calc(100vw - 280.8px);
+	width: calc(100% - 280.8px);
 	min-height: calc(100vh - 70px);
 	margin-left: 280.8px;
 	background: none;
@@ -127,7 +128,7 @@ pre, tt {
 	font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
 	border-radius: 5px;
 	line-height: 1.5;
-	overflow: scroll;
+	overflow: auto;
 }
 
 a, a > tt {
